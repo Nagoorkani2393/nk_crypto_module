@@ -1,6 +1,14 @@
 # nk_crypto_module
 A nestjs crypto module library
 
+## Installation
+
+```bash
+$ npm i nk-crypto-module
+
+$ pnpm i nk-crypto-module
+```
+
 
 
 ## Crypto module

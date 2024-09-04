@@ -1,6 +1,6 @@
 {
   "name": "nk-crypto-module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A nest-js crypto module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
